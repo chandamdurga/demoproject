@@ -35,5 +35,6 @@ public class GenericResponse {
 
     public GenericResponse() {
         super();
+        System.out.print("hi");
     }
 }
